@@ -1,0 +1,13 @@
+body {
+  background-color: #f7f7f7;
+  margin: 0;
+}
+.contentBox {
+  background-color: #fff;
+}
+.headerBar {
+  background-color: #5aaec4;
+}
+.linkCol {
+  color: #991515;
+}
